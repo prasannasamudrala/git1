@@ -1,0 +1,13 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 7AFB-1B2A
+
+ Directory of C:\Users\IBM_ADMIN\Desktop\Myproject
+
+08/31/2018  03:50 PM    <DIR>          .
+08/31/2018  03:50 PM    <DIR>          ..
+08/31/2018  03:10 PM                 0 add
+08/31/2018  03:11 PM                27 index.html
+08/31/2018  03:10 PM                 9 test1.txt
+08/31/2018  03:50 PM                 0 test2.txt
+               4 File(s)             36 bytes
+               2 Dir(s)  189,333,909,504 bytes free
